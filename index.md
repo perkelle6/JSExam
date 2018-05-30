@@ -4,7 +4,15 @@
     <div> Fishing supplies </div>
   </head>
   <body>
-    <a href="file://itemTable.md">Our items!</a>
+    <button onclick="myFunction()">Our Items</button>
+
+<p id="but1"></p>
+
+<script>
+function myFunction() {
+  document.getElementById("but1").innerHTML = "Hello World";
+}
+</script>
   </body>
   </html>
 
