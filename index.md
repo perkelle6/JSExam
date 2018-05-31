@@ -8,7 +8,7 @@
     <button onclick="myFunction1()">Distributors</button>
 
 <p id="but1"></p>
-
+<script src="scripts/main.js"></script>
 <script>
 function myFunction() 
   {
